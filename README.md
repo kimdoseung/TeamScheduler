@@ -47,7 +47,7 @@ db테이블 입니다.
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjE4/MDAxNTU3MjkwMzQ3Nzcz.QGNwz3K7d3gVcZ452oJ98uUKu44oAlYUN64fo5P-cVog.XX2P4f29_l2K6mcc7xIn2rpAXZ9Aq5YEii4EitTIO_Mg.PNG.p8137213/16.PNG?type=w773">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfNDQg/MDAxNTU3MjkwMzU3OTY2.wdn75n-wFoYzynJo2VJ_mnRM-gOY_Yqq4n__uSyoJrMg.cZV7GyzCxYs2uc3CEqFplEOMjjyz1va2uN5iFpigovwg.PNG.p8137213/17.PNG?type=w773">
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjIy/MDAxNTU3MjkwMzcxNzIy.o8EieY_nKs4OflKpcRWEJpVykMJKTkRojdlkj762-Eog.iE4uRf3kG6yieXBJljw8UbCnt2M3uVL5TsZmwEe-UaIg.PNG.p8137213/19.PNG?type=w773">
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjIy/MDAxNTU3MjkwMzcxNzIy.o8EieY_nKs4OflKpcRWEJpVykMJKTkRojdlkj762-Eog.iE4uRf3kG6yieXBJljw8UbCnt2M3uVL5TsZmwEe-UaIg.PNG.p8137213/19.PNG?type=w773">
+
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTY5/MDAxNTU3MjkwMzYzOTky.5zNPAvd5I774bH95PPPU0LwULLM3KzKqxjkct9ZwOqIg.hY53luuljVnughyKeM5N1EYcBT4hGv89a0hSm8PKMmEg.PNG.p8137213/18.PNG?type=w773">
 
 
